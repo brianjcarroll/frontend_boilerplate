@@ -4,7 +4,7 @@ A simple ES6/Sass/Gulp boilerplate to prototype on the front end
 ## How to use
 Open up your terminal, create a new project directory (mkdir new_app && cd new_app), and then
 
-    git clone https://github.com/brianjcarroll/frontend_boilerplate.git && npm install
+    git clone https://github.com/brianjcarroll/frontend_boilerplate.git && cd frontend_boilerplate && npm install
     
 After everything has been installed, simply run
 
